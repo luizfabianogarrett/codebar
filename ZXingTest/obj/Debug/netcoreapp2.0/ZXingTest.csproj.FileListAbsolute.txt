@@ -1,0 +1,11 @@
+C:\Projetos\ZXingTest\ZXingTest\ZXingTest\obj\Debug\netcoreapp2.0\ZXingTest.csprojResolveAssemblyReference.cache
+C:\Projetos\ZXingTest\ZXingTest\ZXingTest\obj\Debug\netcoreapp2.0\ZXingTest.csproj.CoreCompileInputs.cache
+C:\Projetos\ZXingTest\ZXingTest\ZXingTest\obj\Debug\netcoreapp2.0\ZXingTest.AssemblyInfoInputs.cache
+C:\Projetos\ZXingTest\ZXingTest\ZXingTest\obj\Debug\netcoreapp2.0\ZXingTest.AssemblyInfo.cs
+C:\Projetos\ZXingTest\ZXingTest\ZXingTest\bin\Debug\netcoreapp2.0\ZXingTest.deps.json
+C:\Projetos\ZXingTest\ZXingTest\ZXingTest\bin\Debug\netcoreapp2.0\ZXingTest.runtimeconfig.json
+C:\Projetos\ZXingTest\ZXingTest\ZXingTest\bin\Debug\netcoreapp2.0\ZXingTest.runtimeconfig.dev.json
+C:\Projetos\ZXingTest\ZXingTest\ZXingTest\bin\Debug\netcoreapp2.0\ZXingTest.dll
+C:\Projetos\ZXingTest\ZXingTest\ZXingTest\bin\Debug\netcoreapp2.0\ZXingTest.pdb
+C:\Projetos\ZXingTest\ZXingTest\ZXingTest\obj\Debug\netcoreapp2.0\ZXingTest.dll
+C:\Projetos\ZXingTest\ZXingTest\ZXingTest\obj\Debug\netcoreapp2.0\ZXingTest.pdb
